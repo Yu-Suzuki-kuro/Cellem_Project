@@ -1,0 +1,137 @@
+
+/* 固定バー */
+body{
+  background-color: #E4E4E4;
+}
+.wrap{
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+}
+
+header{
+  position: fixed;
+  width: 100vw;
+  height: 64px;
+  background: #F7F7F7;
+}
+
+.header-plus{
+  display: flex;
+  justify-content: space-between;
+}
+
+.watch_icon{
+  margin-left: 16px;
+  margin-top: 16px;
+  width: 32px;
+  height: 32px;
+}
+
+/* ヘッダーアイコン */
+.grass_icon{
+  position: absolute;
+  top: 16px;
+  right: 240px;
+  width: 32px;
+  height: 32px;
+}
+
+.pp_icon{
+  position: absolute;
+  right: 145px;
+  top: 16px;
+  width: 32px;
+  height: 32px;
+}
+
+.header-icon h2{
+  position: absolute;
+  right: 16px;
+  font-size: 32px;
+  margin-top: 16px;
+}
+
+
+
+.set-right{
+position: fixed;
+width: 64px;
+height: 91.625vh;
+top: 67px;
+background: #F7F7F7;
+}
+
+.person_icon{
+  position: absolute;
+  left: 16px;
+  top: 40px;
+  width: 32px;
+  height: 32px;
+}
+.reply_icon{
+position: absolute;
+left: 16px;
+top: 120px;
+width: 32px;
+height: 32px;
+}
+.sign_icon{
+  position: absolute;
+  left: 16px;
+  top: 200px;
+  width: 32px;
+  height: 32px;
+}
+.friend-addtion_icon{
+  position: absolute;
+  left: 16px;
+  top: 280px;
+  width: 32px;
+  height: 32px;
+}
+.talk_icon{
+  position: absolute;
+  left: 16px;
+  top: 360px;
+  width: 32px;
+  height: 32px;
+}
+
+.setting_icon{
+  position: absolute;
+  left: 16px;
+  top: 720px;
+  width: 32px;
+  height: 32px;
+}
+
+#view_time{
+  margin-top: 20px;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 26px;
+}
+
+#object{
+  position: fixed;
+  top: 860px;
+  left: 16px;
+  font-size: 24px;
+}
+
+.header-icon h2{
+  position: absolute;
+  right: 16px;
+  font-size: 32px;
+  margin-top: 16px;
+}
+
+/* カレンダー制作 */
+
+
