@@ -133,29 +133,26 @@ height: 32px;
   margin-top: 16px;
 }
 
-
-/* プロフィール */
-
 .profile{
-
-/* justify-content: space-around;
-display: flex; */
+position: fixed;
+top: 0px;
+left: 350px;
 }
-
-.profile_left{
-  
-}
-
-.profile_right{
-
-}
-
 
 .mypicture{
+  position: absolute;
   top: 200px;
   width: 220px;
   height: 220px;
   border-radius: 50%;
+}
+
+.profile_right{
+  position: absolute;
+  width: 350px;
+  height: 30px;
+  top: 220px;
+  left: 310px;
 }
 
 .setting_button{
