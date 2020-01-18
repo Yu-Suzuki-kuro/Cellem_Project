@@ -132,6 +132,13 @@ height: 32px;
   margin-top: 16px;
 }
 
+.mypicture{
+  position: absolute;
+  left: 16px;
+  top: 720px;
+  width: 32px;
+  height: 32px;
+}
 /* カレンダー制作 */
 
 
