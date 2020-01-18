@@ -133,12 +133,43 @@ height: 32px;
   margin-top: 16px;
 }
 
+
+/* プロフィール */
+
+.profile{
+
+/* justify-content: space-around;
+display: flex; */
+}
+
+.profile_left{
+  
+}
+
+.profile_right{
+
+}
+
+
 .mypicture{
+  top: 200px;
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+}
+
+.setting_button{
+  width: 32px;
+  height: 16px;
+}
+
+.setting_button_icon{
+  width: 16px;
+  height: 16px;
+}
+
+.profile_writing{
   position: absolute;
-  left: 16px;
-  top: 720px;
-  width: 64px;
-  height: 32px;
 }
 /* カレンダー制作 */
 
