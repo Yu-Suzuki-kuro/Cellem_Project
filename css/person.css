@@ -3,6 +3,7 @@
 body{
   background-color: #E4E4E4;
 }
+
 .wrap{
   position: relative;
   width: 100%;
@@ -136,7 +137,7 @@ height: 32px;
   position: absolute;
   left: 16px;
   top: 720px;
-  width: 32px;
+  width: 64px;
   height: 32px;
 }
 /* カレンダー制作 */
